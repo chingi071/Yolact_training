@@ -1,7 +1,7 @@
 # YOLACT_training
 Use YOLACT training instance segmentation, the training set data is downloaded from [roboflow Raccoon Dataset](https://public.roboflow.com/object-detection/raccoon) and then labeled.
 
-The labeled data is placed in the [raccoon_dataset folder](https://github.com/chingi071/SOLOv2_training/tree/main/raccoon_dataset).
+The labeled data is placed in the [raccoon_dataset folder](https://drive.google.com/file/d/1ivRtpdIOs3VG0j_IEtroUJG8qsoeBk-Z/view?usp=sharing).
 
 ## Create dataset
 Before training, first convert the training data into COCO format. 
